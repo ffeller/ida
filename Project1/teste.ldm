@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.7.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:LogicalDataModel="http:///com/ibm/db/models/logical/logical.ecore" xmlns:datanotation="http:///datanotation.ecore" xmlns:ilvglnotation="http://www.ilog.com/views/8.5.0/LayoutNotationExtensionDefinition" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <LogicalDataModel:Package xmi:id="_6Ub0EPs0EeSYp-VV7l-uAQ" name="Package1" targetNamespace="teste.ldm" namespaceSupported="true" contents="_9F4A8Ps0EeSYp-VV7l-uAQ _-IetcPs0EeSYp-VV7l-uAQ">
+    <eAnnotations xmi:id="_6Ub0Efs0EeSYp-VV7l-uAQ" source="diagram">
+      <contents xsi:type="datanotation:DataDiagram" xmi:id="_6Ub0Evs0EeSYp-VV7l-uAQ" type="IE_CrowFoot" name="Diagram1" viewKind="ProjectExplorer" notation="IE_CrowFoot">
+        <eAnnotations xmi:id="_6Ub0E_s0EeSYp-VV7l-uAQ" source="Diagram_State">
+          <details xmi:id="_6Ub0FPs0EeSYp-VV7l-uAQ" key="Diagram_State_Value" value="true"/>
+        </eAnnotations>
+        <children xmi:id="_0xfTcPs1EeS7IJykzpLJ8A" element="_9F4A8Ps0EeSYp-VV7l-uAQ">
+          <children xsi:type="notation:Shape" xmi:id="_0xyOYPs1EeS7IJykzpLJ8A" type="IEEntityName" fontName="Sans" fontHeight="10">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0xy1cPs1EeS7IJykzpLJ8A"/>
+          </children>
+          <children xmi:id="_0xzcgPs1EeS7IJykzpLJ8A" type="entity.ie.key.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_5PCc0Ps1EeS7IJykzpLJ8A" type="IEEntityKey" element="_EcYUcPs1EeSYp-VV7l-uAQ" fontName="Sans" fontHeight="10">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_5PCc0fs1EeS7IJykzpLJ8A"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_0xzcgfs1EeS7IJykzpLJ8A" sortingKeys="Natural:Ascending"/>
+          </children>
+          <children xmi:id="_0x1RsPs1EeS7IJykzpLJ8A" type="entity.ie.nonkey.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_03Dv8Ps1EeS7IJykzpLJ8A" type="IEEntityNonKey" element="_EmJUcPs1EeSYp-VV7l-uAQ" fontName="Sans" fontHeight="10">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_03Dv8fs1EeS7IJykzpLJ8A"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_0x1Rsfs1EeS7IJykzpLJ8A" sortingKeys="Natural:Ascending"/>
+          </children>
+          <children xmi:id="_0x14wPs1EeS7IJykzpLJ8A" visible="false" type="entity.ie.description.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_0x2f0Ps1EeS7IJykzpLJ8A" type="IEEntityDescription" fontName="Sans" fontHeight="10">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0x2f0fs1EeS7IJykzpLJ8A"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_0x14wfs1EeS7IJykzpLJ8A"/>
+          </children>
+          <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_0xfTcfs1EeS7IJykzpLJ8A" sortingKeys="Natural:Ascending"/>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_0xq5oPs1EeS7IJykzpLJ8A" fontName="Sans" fontHeight="10" lineWidth="1"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0xfTcvs1EeS7IJykzpLJ8A" x="3352" y="4267"/>
+        </children>
+        <children xmi:id="_0x8mcPs1EeS7IJykzpLJ8A" element="_-IetcPs0EeSYp-VV7l-uAQ">
+          <children xsi:type="notation:Shape" xmi:id="_0yAQ0Ps1EeS7IJykzpLJ8A" type="IEEntityName" fontName="Sans" fontHeight="10">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0yAQ0fs1EeS7IJykzpLJ8A"/>
+          </children>
+          <children xmi:id="_0yA34Ps1EeS7IJykzpLJ8A" type="entity.ie.key.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_5642MPs1EeS7IJykzpLJ8A" type="IEEntityKey" element="__gCWQPs0EeSYp-VV7l-uAQ" fontName="Sans" fontHeight="10">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_5642Mfs1EeS7IJykzpLJ8A"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_0yA34fs1EeS7IJykzpLJ8A" sortingKeys="Natural:Ascending"/>
+          </children>
+          <children xmi:id="_0yBe8Ps1EeS7IJykzpLJ8A" type="entity.ie.nonkey.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_03Ng8Ps1EeS7IJykzpLJ8A" type="IEEntityNonKey" element="_Ai0o8Ps1EeSYp-VV7l-uAQ" fontName="Sans" fontHeight="10">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_03Ng8fs1EeS7IJykzpLJ8A"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_0yBe8fs1EeS7IJykzpLJ8A" sortingKeys="Natural:Ascending"/>
+          </children>
+          <children xmi:id="_0yCGAPs1EeS7IJykzpLJ8A" visible="false" type="entity.ie.description.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_0yCGAvs1EeS7IJykzpLJ8A" type="IEEntityDescription" fontName="Sans" fontHeight="10">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0yCGA_s1EeS7IJykzpLJ8A"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_0yCGAfs1EeS7IJykzpLJ8A"/>
+          </children>
+          <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_0x8mcfs1EeS7IJykzpLJ8A" sortingKeys="Natural:Ascending"/>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_0x9NgPs1EeS7IJykzpLJ8A" fontName="Sans" fontHeight="10" lineWidth="1"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0x8mcvs1EeS7IJykzpLJ8A" x="8427" y="4267"/>
+        </children>
+        <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_6Ub0Ffs0EeSYp-VV7l-uAQ"/>
+        <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_6Ub0Fvs0EeSYp-VV7l-uAQ"/>
+        <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_6Ub0F_s0EeSYp-VV7l-uAQ"/>
+        <styles xsi:type="datanotation:DataDiagramRelationshipStyle" xmi:id="_6Ub0GPs0EeSYp-VV7l-uAQ"/>
+        <styles xsi:type="datanotation:DataShapeNameStyle" xmi:id="_6Ub0Gfs0EeSYp-VV7l-uAQ"/>
+        <styles xsi:type="datanotation:DataDiagramFormattingStyle" xmi:id="_6Ub0Gvs0EeSYp-VV7l-uAQ"/>
+        <styles xsi:type="datanotation:ConnectionLayerStyle" xmi:id="_6Ub0G_s0EeSYp-VV7l-uAQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_6Ub0HPs0EeSYp-VV7l-uAQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_6Ub0Hfs0EeSYp-VV7l-uAQ" sortingKeys="Natural:Ascending"/>
+        <styles xsi:type="ilvglnotation:LayoutStyle" xmi:id="_6Ub0Hvs0EeSYp-VV7l-uAQ" graphLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.7.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalNodeLinkOffset&lt;/string>&#xA;   &lt;float>500.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalNodeOffset&lt;/string>&#xA;   &lt;float>1000.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>levelingStrategy&lt;/string>&#xA;   &lt;int>1&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalNodeOffset&lt;/string>&#xA;   &lt;float>1000.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>layout&lt;/string>&#xA;   &lt;string>ilog.views.eclipse.graphlayout.runtime.hierarchical.IlvHierarchicalLayout&lt;/string>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>globalLinkStyle&lt;/string>&#xA;   &lt;int>2&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalNodeLinkOffset&lt;/string>&#xA;   &lt;float>500.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalLinkOffset&lt;/string>&#xA;   &lt;float>150.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalLinkOffset&lt;/string>&#xA;   &lt;float>150.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>levelJustification&lt;/string>&#xA;   &lt;int>16&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>flowDirection&lt;/string>&#xA;   &lt;int>4&lt;/int>&#xA;  &lt;/void>&#xA; &lt;/object>&#xA;&lt;/java>&#xA;" linkLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.7.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;/>&#xA;&lt;/java>&#xA;" labelLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.7.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;/>&#xA;&lt;/java>&#xA;"/>
+      </contents>
+    </eAnnotations>
+  </LogicalDataModel:Package>
+  <LogicalDataModel:Entity xmi:id="_9F4A8Ps0EeSYp-VV7l-uAQ" name="Entity1" package="_6Ub0EPs0EeSYp-VV7l-uAQ">
+    <attributes xmi:id="_EcYUcPs1EeSYp-VV7l-uAQ" name="Attribute1" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_EmJUcPs1EeSYp-VV7l-uAQ" name="Attribute2" dataType="CHAR(5)"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_5Nx4kPs1EeS7IJykzpLJ8A" name="Entity1_PK" attributes="_EcYUcPs1EeSYp-VV7l-uAQ"/>
+  </LogicalDataModel:Entity>
+  <LogicalDataModel:Entity xmi:id="_-IetcPs0EeSYp-VV7l-uAQ" name="Entity2" package="_6Ub0EPs0EeSYp-VV7l-uAQ">
+    <attributes xmi:id="__gCWQPs0EeSYp-VV7l-uAQ" name="Attribute1" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_Ai0o8Ps1EeSYp-VV7l-uAQ" name="Attribute2" dataType="CHAR(5)"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_54gQkPs1EeS7IJykzpLJ8A" name="Entity2_PK" attributes="__gCWQPs0EeSYp-VV7l-uAQ"/>
+  </LogicalDataModel:Entity>
+</xmi:XMI>
